@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @nikhilsingh1122
-- 👀 I’m interested in verilog coding
+- 👀 I’m vlsi enthusiast and passionate for electronics.
 - 🌱 I’m currently learning the basic of verilog
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me 
 - 😄 Pronouns: he/ him
 - ⚡ Fun fact: to design a chip is not complex
 
